@@ -1,5 +1,5 @@
 # Excalidraw Test
 
-An excalidraw playground for testing and development
+An excalidraw playground for the testing and development work.
 
 https://yubintw.github.io/excalidraw-test/
