@@ -45,7 +45,7 @@ function App() {
 
   return (
     <>
-      <div style={{ height: '400px' }}>
+      <div style={{ height: '600px' }}>
         <Excalidraw excalidrawAPI={(api) => setExcalidrawAPI(api)} />
       </div>
       <div>
